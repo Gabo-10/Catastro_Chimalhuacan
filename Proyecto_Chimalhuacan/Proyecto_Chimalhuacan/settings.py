@@ -57,7 +57,7 @@ ROOT_URLCONF = 'Proyecto_Chimalhuacan.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/gabri/Documents/9ISC21/SCM_Chimalhuacan/Proyecto_Chimalhuacan/Proyecto_Chimalhuacan/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
